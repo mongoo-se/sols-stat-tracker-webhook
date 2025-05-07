@@ -64,6 +64,6 @@ Example:
 ```
 
 
-6. Download [Node.js](https://nodejs.org/en)
+6. Install [Node.js](https://nodejs.org/en)
 7. In Sol's Stat Tracker Webhook open the `setup.bat` file to install the dependencies.
 8. In Sol's Stat Tracker Webhook open the `run.bat` file.
