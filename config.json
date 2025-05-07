@@ -1,0 +1,23 @@
+{
+    "token": "PLACE YOUR API TOKEN HERE",
+    "webhookURL": "PLACE THE WEBHOOK URL HERE",
+
+    "gatewayURL": "wss://api.mongoosee.com/solsstattracker/v1/gateway",
+
+    "maxReconnectInterval": 30000,
+
+    "overrideUsername": null,
+    "overrideAvatarURL": null,
+
+    "colors": {
+        "success": "#6ab183",
+        "error": "#d85a4b",
+        "none": "#777f8d"
+    },
+
+    "emojis": {
+        "success": "<:green_tick:1365702693326422026>",
+        "error": "<:red_tick:1365702694727188491>",
+        "none": "<:gray_tick:1365702690985738390>"
+    }
+}
