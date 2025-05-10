@@ -1,6 +1,6 @@
 {
-    "token": "PLACE YOUR API TOKEN HERE",
-    "webhookURL": "PLACE THE WEBHOOK URL HERE",
+    "token": ```WrrPx@!4xhV!cJ4YgeKlopjSFVE0mcFgDlcY32y^z64!Im$BfEzeODNEGyn2EJVYSNyMyymjpr!!Q0!YkOlItjFzpX97Gmz&KW$kNhMYu4x4zmJ#rEps5gk82$P5O#yU```
+    "webhookURL": https://discord.com/api/webhooks/1370831569446637738/Qpg5cRTPnu3_ee50M2Wu5IyOxeJmtAQ5wLOCbtuVQb4XjNwxx89xHhN-Ysli3Q2gkfYc
 
     "gatewayURL": "wss://api.mongoosee.com/solsstattracker/v1/gateway",
 
